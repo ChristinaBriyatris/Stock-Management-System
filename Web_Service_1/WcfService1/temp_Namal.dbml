@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="NamalS_DB" Class="temp_NamalDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=DESKTOP-D0B1DV0;Initial Catalog=NamalS_DB;Integrated Security=True" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="NamalS_DBConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Item_tbl" Member="Item_tbls">
+    <Type Name="Item_tbl">
+      <Column Name="Item_Id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Item_Name" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Item_Description" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Supplier_Id" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Price" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Association Name="Item_tbl_Stock_tbl" Member="Stock_tbls" ThisKey="Item_Id" OtherKey="Item_Id" Type="Stock_tbl" />
+      <Association Name="Item_tbl_Supplier_Bill_tbl" Member="Supplier_Bill_tbls" ThisKey="Item_Id" OtherKey="Item_Id" Type="Supplier_Bill_tbl" />
+      <Association Name="Suppliers_tbl_Item_tbl" Member="Suppliers_tbl" ThisKey="Supplier_Id" OtherKey="Supplier_Id" Type="Suppliers_tbl" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Login_Details" Member="Login_Details">
+    <Type Name="Login_Detail">
+      <Column Name="Username" Type="System.String" DbType="VarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Password" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Payment_tbl" Member="Payment_tbls">
+    <Type Name="Payment_tbl">
+      <Column Name="Payment_Invoice_Id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Amount" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Column Name="Payment_Date" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="Supplier_Id" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Payment_tbl_Payment_Report" Member="Payment_Report" ThisKey="Payment_Invoice_Id" OtherKey="Report_No" Type="Payment_Report" Cardinality="One" />
+      <Association Name="Suppliers_tbl_Payment_tbl" Member="Suppliers_tbl" ThisKey="Supplier_Id" OtherKey="Supplier_Id" Type="Suppliers_tbl" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Stock_tbl" Member="Stock_tbls">
+    <Type Name="Stock_tbl">
+      <Column Name="Stock_Id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Item_Id" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Current_Stock_Level" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Reorder_Limit" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Item_tbl_Stock_tbl" Member="Item_tbl" ThisKey="Item_Id" OtherKey="Item_Id" Type="Item_tbl" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Supplier_Bill_tbl" Member="Supplier_Bill_tbls">
+    <Type Name="Supplier_Bill_tbl">
+      <Column Name="Invoice_Id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Supplier_Id" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Item_Id" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Quantity" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Date" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="Amount" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Association Name="Item_tbl_Supplier_Bill_tbl" Member="Item_tbl" ThisKey="Item_Id" OtherKey="Item_Id" Type="Item_tbl" IsForeignKey="true" />
+      <Association Name="Suppliers_tbl_Supplier_Bill_tbl" Member="Suppliers_tbl" ThisKey="Supplier_Id" OtherKey="Supplier_Id" Type="Suppliers_tbl" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Suppliers_tbl" Member="Suppliers_tbls">
+    <Type Name="Suppliers_tbl">
+      <Column Name="Supplier_Id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Supplier_Name" Type="System.String" DbType="VarChar(15) NOT NULL" CanBeNull="false" />
+      <Column Name="Phone_No" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Suppliers_tbl_Item_tbl" Member="Item_tbls" ThisKey="Supplier_Id" OtherKey="Supplier_Id" Type="Item_tbl" />
+      <Association Name="Suppliers_tbl_Payment_tbl" Member="Payment_tbls" ThisKey="Supplier_Id" OtherKey="Supplier_Id" Type="Payment_tbl" />
+      <Association Name="Suppliers_tbl_Supplier_Bill_tbl" Member="Supplier_Bill_tbls" ThisKey="Supplier_Id" OtherKey="Supplier_Id" Type="Supplier_Bill_tbl" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Payment_Report" Member="Payment_Reports">
+    <Type Name="Payment_Report">
+      <Column Name="Report_No" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Payment_Id" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Date" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="Month" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Amount" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Association Name="Payment_tbl_Payment_Report" Member="Payment_tbl" ThisKey="Report_No" OtherKey="Payment_Invoice_Id" Type="Payment_tbl" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

@@ -1,0 +1,105 @@
+C:\Users\Lishani Pathirana\Desktop\Wpf\Namal_WpfApplication\Namal_WpfApplication\bin\Debug\Namal_WpfApplication.exe.config
+C:\Users\Lishani Pathirana\Desktop\Wpf\Namal_WpfApplication\Namal_WpfApplication\bin\Debug\Namal_WpfApplication.exe
+C:\Users\Lishani Pathirana\Desktop\Wpf\Namal_WpfApplication\Namal_WpfApplication\bin\Debug\Namal_WpfApplication.pdb
+C:\Users\Lishani Pathirana\Desktop\Wpf\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Namal_WpfApplication.csprojResolveAssemblyReference.cache
+C:\Users\Lishani Pathirana\Desktop\Wpf\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\MainWindow.baml
+C:\Users\Lishani Pathirana\Desktop\Wpf\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\MainWindow.g.cs
+C:\Users\Lishani Pathirana\Desktop\Wpf\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\App.g.cs
+C:\Users\Lishani Pathirana\Desktop\Wpf\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Namal_WpfApplication_MarkupCompile.cache
+C:\Users\Lishani Pathirana\Desktop\Wpf\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Namal_WpfApplication.g.resources
+C:\Users\Lishani Pathirana\Desktop\Wpf\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Namal_WpfApplication.Properties.Resources.resources
+C:\Users\Lishani Pathirana\Desktop\Wpf\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Namal_WpfApplication.csproj.GenerateResource.Cache
+C:\Users\Lishani Pathirana\Desktop\Wpf\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Namal_WpfApplication.exe
+C:\Users\Lishani Pathirana\Desktop\Wpf\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Namal_WpfApplication.pdb
+C:\Users\Lishani Pathirana\Desktop\Wpf\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Home.baml
+C:\Users\Lishani Pathirana\Desktop\Wpf\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Home.g.cs
+C:\Users\Lishani Pathirana\Desktop\Wpf\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Item.baml
+C:\Users\Lishani Pathirana\Desktop\Wpf\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Supplier.baml
+C:\Users\Lishani Pathirana\Desktop\Wpf\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Item.g.cs
+C:\Users\Lishani Pathirana\Desktop\Wpf\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Supplier.g.cs
+C:\Users\Poshitha\Desktop\Wpf new\Namal_WpfApplication\Namal_WpfApplication\bin\Debug\Namal_WpfApplication.exe.config
+C:\Users\Poshitha\Desktop\Wpf new\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Namal_WpfApplication.exe
+C:\Users\Poshitha\Desktop\Wpf new\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Namal_WpfApplication.pdb
+C:\Users\Poshitha\Desktop\Wpf new\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Namal_WpfApplication.csprojResolveAssemblyReference.cache
+C:\Users\Poshitha\Desktop\Wpf new\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Home.baml
+C:\Users\Poshitha\Desktop\Wpf new\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Item.baml
+C:\Users\Poshitha\Desktop\Wpf new\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\MainWindow.baml
+C:\Users\Poshitha\Desktop\Wpf new\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\StockLevel.baml
+C:\Users\Poshitha\Desktop\Wpf new\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Supplier.baml
+C:\Users\Poshitha\Desktop\Wpf new\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Home.g.cs
+C:\Users\Poshitha\Desktop\Wpf new\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Item.g.cs
+C:\Users\Poshitha\Desktop\Wpf new\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\MainWindow.g.cs
+C:\Users\Poshitha\Desktop\Wpf new\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\StockLevel.g.cs
+C:\Users\Poshitha\Desktop\Wpf new\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Supplier.g.cs
+C:\Users\Poshitha\Desktop\Wpf new\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\App.g.cs
+C:\Users\Poshitha\Desktop\Wpf new\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Namal_WpfApplication_MarkupCompile.cache
+C:\Users\Poshitha\Desktop\Wpf new\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Namal_WpfApplication.g.resources
+C:\Users\Poshitha\Desktop\Wpf new\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Namal_WpfApplication.Properties.Resources.resources
+C:\Users\Poshitha\Desktop\Wpf new\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Namal_WpfApplication.csproj.GenerateResource.Cache
+C:\Users\Poshitha\Desktop\Wpf new\Namal_WpfApplication\Namal_WpfApplication\bin\Debug\Namal_WpfApplication.exe
+C:\Users\Poshitha\Desktop\Wpf new\Namal_WpfApplication\Namal_WpfApplication\bin\Debug\Namal_WpfApplication.pdb
+C:\Users\Lishani Pathirana\Desktop\ITP 2018\Wpf new\Namal_WpfApplication\Namal_WpfApplication\bin\Debug\Namal_WpfApplication.exe.config
+C:\Users\Lishani Pathirana\Desktop\ITP 2018\Wpf new\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Namal_WpfApplication.exe
+C:\Users\Lishani Pathirana\Desktop\ITP 2018\Wpf new\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Namal_WpfApplication.pdb
+C:\Users\Lishani Pathirana\Desktop\ITP 2018\Wpf new\Namal_WpfApplication\Namal_WpfApplication\bin\Debug\Namal_WpfApplication.exe
+C:\Users\Lishani Pathirana\Desktop\ITP 2018\Wpf new\Namal_WpfApplication\Namal_WpfApplication\bin\Debug\Namal_WpfApplication.pdb
+C:\Users\Lishani Pathirana\Desktop\ITP 2018\Wpf new\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Namal_WpfApplication.csprojResolveAssemblyReference.cache
+C:\Users\Lishani Pathirana\Desktop\ITP 2018\Wpf new\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Home.baml
+C:\Users\Lishani Pathirana\Desktop\ITP 2018\Wpf new\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Item.baml
+C:\Users\Lishani Pathirana\Desktop\ITP 2018\Wpf new\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\MainWindow.baml
+C:\Users\Lishani Pathirana\Desktop\ITP 2018\Wpf new\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\StockLevel.baml
+C:\Users\Lishani Pathirana\Desktop\ITP 2018\Wpf new\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Supplier.baml
+C:\Users\Lishani Pathirana\Desktop\ITP 2018\Wpf new\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Home.g.cs
+C:\Users\Lishani Pathirana\Desktop\ITP 2018\Wpf new\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Item.g.cs
+C:\Users\Lishani Pathirana\Desktop\ITP 2018\Wpf new\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\MainWindow.g.cs
+C:\Users\Lishani Pathirana\Desktop\ITP 2018\Wpf new\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\StockLevel.g.cs
+C:\Users\Lishani Pathirana\Desktop\ITP 2018\Wpf new\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Supplier.g.cs
+C:\Users\Lishani Pathirana\Desktop\ITP 2018\Wpf new\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\App.g.cs
+C:\Users\Lishani Pathirana\Desktop\ITP 2018\Wpf new\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Namal_WpfApplication_MarkupCompile.cache
+C:\Users\Lishani Pathirana\Desktop\ITP 2018\Wpf new\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Namal_WpfApplication.g.resources
+C:\Users\Lishani Pathirana\Desktop\ITP 2018\Wpf new\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Namal_WpfApplication.Properties.Resources.resources
+C:\Users\Lishani Pathirana\Desktop\ITP 2018\Wpf new\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Namal_WpfApplication.csproj.GenerateResource.Cache
+C:\Users\Lishani Pathirana\Desktop\lishani\Namal_WpfApplication\Namal_WpfApplication\bin\Debug\Namal_WpfApplication.exe.config
+C:\Users\Lishani Pathirana\Desktop\lishani\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Namal_WpfApplication.exe
+C:\Users\Lishani Pathirana\Desktop\lishani\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Namal_WpfApplication.pdb
+C:\Users\Lishani Pathirana\Desktop\lishani\Namal_WpfApplication\Namal_WpfApplication\bin\Debug\Namal_WpfApplication.exe
+C:\Users\Lishani Pathirana\Desktop\lishani\Namal_WpfApplication\Namal_WpfApplication\bin\Debug\Namal_WpfApplication.pdb
+C:\Users\Lishani Pathirana\Desktop\lishani\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Namal_WpfApplication.csprojResolveAssemblyReference.cache
+C:\Users\Lishani Pathirana\Desktop\lishani\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Home.baml
+C:\Users\Lishani Pathirana\Desktop\lishani\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Item.baml
+C:\Users\Lishani Pathirana\Desktop\lishani\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\MainWindow.baml
+C:\Users\Lishani Pathirana\Desktop\lishani\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\StockLevel.baml
+C:\Users\Lishani Pathirana\Desktop\lishani\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Supplier.baml
+C:\Users\Lishani Pathirana\Desktop\lishani\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Home.g.cs
+C:\Users\Lishani Pathirana\Desktop\lishani\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Item.g.cs
+C:\Users\Lishani Pathirana\Desktop\lishani\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\MainWindow.g.cs
+C:\Users\Lishani Pathirana\Desktop\lishani\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\StockLevel.g.cs
+C:\Users\Lishani Pathirana\Desktop\lishani\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Supplier.g.cs
+C:\Users\Lishani Pathirana\Desktop\lishani\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\App.g.cs
+C:\Users\Lishani Pathirana\Desktop\lishani\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Namal_WpfApplication_MarkupCompile.cache
+C:\Users\Lishani Pathirana\Desktop\lishani\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Namal_WpfApplication.g.resources
+C:\Users\Lishani Pathirana\Desktop\lishani\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Namal_WpfApplication.Properties.Resources.resources
+C:\Users\Lishani Pathirana\Desktop\lishani\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Namal_WpfApplication.csproj.GenerateResource.Cache
+C:\Users\USER\Downloads\lishani\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Home.baml
+C:\Users\USER\Downloads\lishani\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Item.baml
+C:\Users\USER\Downloads\lishani\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\MainWindow.baml
+C:\Users\USER\Downloads\lishani\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\StockLevel.baml
+C:\Users\USER\Downloads\lishani\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Supplier.baml
+C:\Users\USER\Downloads\lishani\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Home.g.cs
+C:\Users\USER\Downloads\lishani\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Item.g.cs
+C:\Users\USER\Downloads\lishani\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\MainWindow.g.cs
+C:\Users\USER\Downloads\lishani\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Payment.g.cs
+C:\Users\USER\Downloads\lishani\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\StockLevel.g.cs
+C:\Users\USER\Downloads\lishani\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Supplier.g.cs
+C:\Users\USER\Downloads\lishani\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\App.g.cs
+C:\Users\USER\Downloads\lishani\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Namal_WpfApplication_MarkupCompile.cache
+C:\Users\USER\Downloads\lishani\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Namal_WpfApplication_MarkupCompile.lref
+C:\Users\USER\Downloads\lishani\Namal_WpfApplication\Namal_WpfApplication\bin\Debug\Namal_WpfApplication.exe.config
+C:\Users\USER\Downloads\lishani\Namal_WpfApplication\Namal_WpfApplication\bin\Debug\Namal_WpfApplication.exe
+C:\Users\USER\Downloads\lishani\Namal_WpfApplication\Namal_WpfApplication\bin\Debug\Namal_WpfApplication.pdb
+C:\Users\USER\Downloads\lishani\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Payment.baml
+C:\Users\USER\Downloads\lishani\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Namal_WpfApplication.g.resources
+C:\Users\USER\Downloads\lishani\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Namal_WpfApplication.Properties.Resources.resources
+C:\Users\USER\Downloads\lishani\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Namal_WpfApplication.csproj.GenerateResource.Cache
+C:\Users\USER\Downloads\lishani\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Namal_WpfApplication.exe
+C:\Users\USER\Downloads\lishani\Namal_WpfApplication\Namal_WpfApplication\obj\Debug\Namal_WpfApplication.pdb

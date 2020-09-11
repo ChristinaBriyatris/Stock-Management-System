@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/WcfService1" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/WcfService1" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="ArrayOfPayment_tbl">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Payment_tbl" nillable="true" type="tns:Payment_tbl" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfPayment_tbl" nillable="true" type="tns:ArrayOfPayment_tbl" />
+  <xs:complexType name="Payment_tbl">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Amount" type="xs:double" />
+      <xs:element minOccurs="0" name="Payment_Date" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="Payment_Invoice_Id" type="xs:int" />
+      <xs:element minOccurs="0" name="Payment_Report" nillable="true" type="tns:Payment_Report" />
+      <xs:element minOccurs="0" name="Supplier_Id" nillable="true" type="xs:int" />
+      <xs:element minOccurs="0" name="Suppliers_tbl" nillable="true" type="tns:Suppliers_tbl" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Payment_tbl" nillable="true" type="tns:Payment_tbl" />
+  <xs:complexType name="Payment_Report">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Amount" type="xs:double" />
+      <xs:element minOccurs="0" name="Date" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="Month" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Payment_Id" type="xs:int" />
+      <xs:element minOccurs="0" name="Payment_tbl" nillable="true" type="tns:Payment_tbl" />
+      <xs:element minOccurs="0" name="Report_No" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Payment_Report" nillable="true" type="tns:Payment_Report" />
+  <xs:complexType name="Suppliers_tbl">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Item_tbls" nillable="true" type="tns:ArrayOfItem_tbl" />
+      <xs:element minOccurs="0" name="Payment_tbls" nillable="true" type="tns:ArrayOfPayment_tbl" />
+      <xs:element minOccurs="0" name="Phone_No" nillable="true" type="xs:int" />
+      <xs:element minOccurs="0" name="Supplier_Bill_tbls" nillable="true" type="tns:ArrayOfSupplier_Bill_tbl" />
+      <xs:element minOccurs="0" name="Supplier_Id" type="xs:int" />
+      <xs:element minOccurs="0" name="Supplier_Name" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Suppliers_tbl" nillable="true" type="tns:Suppliers_tbl" />
+  <xs:complexType name="ArrayOfItem_tbl">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Item_tbl" nillable="true" type="tns:Item_tbl" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfItem_tbl" nillable="true" type="tns:ArrayOfItem_tbl" />
+  <xs:complexType name="Item_tbl">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Item_Description" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Item_Id" type="xs:int" />
+      <xs:element minOccurs="0" name="Item_Name" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Price" nillable="true" type="xs:double" />
+      <xs:element minOccurs="0" name="Stock_tbls" nillable="true" type="tns:ArrayOfStock_tbl" />
+      <xs:element minOccurs="0" name="Supplier_Bill_tbls" nillable="true" type="tns:ArrayOfSupplier_Bill_tbl" />
+      <xs:element minOccurs="0" name="Supplier_Id" nillable="true" type="xs:int" />
+      <xs:element minOccurs="0" name="Suppliers_tbl" nillable="true" type="tns:Suppliers_tbl" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Item_tbl" nillable="true" type="tns:Item_tbl" />
+  <xs:complexType name="ArrayOfStock_tbl">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Stock_tbl" nillable="true" type="tns:Stock_tbl" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfStock_tbl" nillable="true" type="tns:ArrayOfStock_tbl" />
+  <xs:complexType name="Stock_tbl">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Current_Stock_Level" type="xs:int" />
+      <xs:element minOccurs="0" name="Item_Id" type="xs:int" />
+      <xs:element minOccurs="0" name="Item_tbl" nillable="true" type="tns:Item_tbl" />
+      <xs:element minOccurs="0" name="Reorder_Limit" nillable="true" type="xs:int" />
+      <xs:element minOccurs="0" name="Stock_Id" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Stock_tbl" nillable="true" type="tns:Stock_tbl" />
+  <xs:complexType name="ArrayOfSupplier_Bill_tbl">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Supplier_Bill_tbl" nillable="true" type="tns:Supplier_Bill_tbl" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfSupplier_Bill_tbl" nillable="true" type="tns:ArrayOfSupplier_Bill_tbl" />
+  <xs:complexType name="Supplier_Bill_tbl">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Amount" nillable="true" type="xs:double" />
+      <xs:element minOccurs="0" name="Date" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="Invoice_Id" type="xs:int" />
+      <xs:element minOccurs="0" name="Item_Id" type="xs:int" />
+      <xs:element minOccurs="0" name="Item_tbl" nillable="true" type="tns:Item_tbl" />
+      <xs:element minOccurs="0" name="Quantity" type="xs:int" />
+      <xs:element minOccurs="0" name="Supplier_Id" type="xs:int" />
+      <xs:element minOccurs="0" name="Suppliers_tbl" nillable="true" type="tns:Suppliers_tbl" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Supplier_Bill_tbl" nillable="true" type="tns:Supplier_Bill_tbl" />
+  <xs:complexType name="ArrayOfPayment_Report">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Payment_Report" nillable="true" type="tns:Payment_Report" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfPayment_Report" nillable="true" type="tns:ArrayOfPayment_Report" />
+</xs:schema>

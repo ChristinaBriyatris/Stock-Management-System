@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\ITP_2018\Phase 3\ITP_New\WcfService1\WcfService1\bin\WcfService1.dll.config
+C:\Users\USER\Desktop\ITP_2018\Phase 3\ITP_New\WcfService1\WcfService1\bin\WcfService1.dll
+C:\Users\USER\Desktop\ITP_2018\Phase 3\ITP_New\WcfService1\WcfService1\bin\WcfService1.pdb
+C:\Users\USER\Desktop\ITP_2018\Phase 3\ITP_New\WcfService1\WcfService1\obj\x64\Debug\WcfService1.dll
+C:\Users\USER\Desktop\ITP_2018\Phase 3\ITP_New\WcfService1\WcfService1\obj\x64\Debug\WcfService1.pdb
+C:\Users\USER\Desktop\ITP_2018\Phase 3\ITP_New\WcfService1\WcfService1\obj\x64\Debug\WcfService1.csprojResolveAssemblyReference.cache

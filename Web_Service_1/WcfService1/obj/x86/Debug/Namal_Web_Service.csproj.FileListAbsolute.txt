@@ -1,0 +1,18 @@
+E:\CHRIS LEC ITP\ITP_2018\ITP_New\WcfService1\WcfService1\bin\WcfService1.dll.config
+E:\CHRIS LEC ITP\ITP_2018\ITP_New\WcfService1\WcfService1\bin\WcfService1.dll
+E:\CHRIS LEC ITP\ITP_2018\ITP_New\WcfService1\WcfService1\bin\WcfService1.pdb
+E:\CHRIS LEC ITP\ITP_2018\ITP_New\WcfService1\WcfService1\obj\x86\Debug\WcfService1.dll
+E:\CHRIS LEC ITP\ITP_2018\ITP_New\WcfService1\WcfService1\obj\x86\Debug\WcfService1.pdb
+E:\CHRIS LEC ITP\ITP_2018\ITP_New\WcfService1\WcfService1\obj\x86\Debug\Namal_Web_Service.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\ITP_2018\Phase 3\BackUP\Web_Service_1\WcfService1\bin\WcfService1.dll.config
+C:\Users\USER\Desktop\ITP_2018\Phase 3\BackUP\Web_Service_1\WcfService1\bin\WcfService1.dll
+C:\Users\USER\Desktop\ITP_2018\Phase 3\BackUP\Web_Service_1\WcfService1\bin\WcfService1.pdb
+C:\Users\USER\Desktop\ITP_2018\Phase 3\BackUP\Web_Service_1\WcfService1\obj\x86\Debug\Namal_Web_Service.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\ITP_2018\Phase 3\BackUP\Web_Service_1\WcfService1\obj\x86\Debug\WcfService1.dll
+C:\Users\USER\Desktop\ITP_2018\Phase 3\BackUP\Web_Service_1\WcfService1\obj\x86\Debug\WcfService1.pdb
+E:\ITP_2018\Phase 3\Finallized\Web_Service_1\WcfService1\bin\WcfService1.dll.config
+E:\ITP_2018\Phase 3\Finallized\Web_Service_1\WcfService1\bin\WcfService1.dll
+E:\ITP_2018\Phase 3\Finallized\Web_Service_1\WcfService1\bin\WcfService1.pdb
+E:\ITP_2018\Phase 3\Finallized\Web_Service_1\WcfService1\obj\x86\Debug\Namal_Web_Service.csprojResolveAssemblyReference.cache
+E:\ITP_2018\Phase 3\Finallized\Web_Service_1\WcfService1\obj\x86\Debug\WcfService1.dll
+E:\ITP_2018\Phase 3\Finallized\Web_Service_1\WcfService1\obj\x86\Debug\WcfService1.pdb
